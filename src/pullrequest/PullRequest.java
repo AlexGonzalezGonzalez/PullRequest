@@ -16,6 +16,10 @@ public class PullRequest {
      */
     public static void main(String[] args) {
         System.out.println("De switch en switch y tiro por que me toca");
+        
+        System.out.println("Igual si metes un objeto dentro de un for y que el nombre del objeto "
+                + "sea una variable que se incremente cada vez que pasa por el for "
+                + "obtienes el mismo resultado que utilizando unos 5 mortys y 2 switches.");
     }
     
 }
