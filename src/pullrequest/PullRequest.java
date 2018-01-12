@@ -20,6 +20,7 @@ public class PullRequest {
         System.out.println("Igual si metes un objeto dentro de un for y que el nombre del objeto "
                 + "sea una variable que se incremente cada vez que pasa por el for "
                 + "obtienes el mismo resultado que utilizando unos 5 mortys y 2 switches.");
+        System.out.println("Ni se te ocuura cambiar mi master");
     }
     
 }
